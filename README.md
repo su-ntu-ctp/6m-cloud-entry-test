@@ -17,6 +17,8 @@ In this assessment, you will be given references for self study before making an
 - [Github CLI Cheat Sheets](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Linux CLI Cheat Sheets](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [AWS Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/?nc1=f_cc)
+- [Javascript Programming](https://www.tutorialspoint.com/javascript/index.htm)
+- [PostgreSQL Database](https://www.tutorialspoint.com/postgresql/index.htm)
 
 ## Problems
 
