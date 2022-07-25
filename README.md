@@ -1,4 +1,4 @@
-# CLOUD INFRASTRUCTURE ENGINEERING - (6 Months) Entry Assessment
+# Cloud Infrastructure Engineering - (6 Months) Entry Assessment
 
 ## Brief
 
