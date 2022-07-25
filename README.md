@@ -24,11 +24,12 @@ In this assessment, you will be given references for self study before making an
 
 Please attempt the solve the problems described in the following files:
 
-- Question - Networking and Internet Protocols
-- Question - Operating System
-- Question - Cloud Computing
-- Question - Database
-- Question - Programming
+- Question 1 - Networking and Internet Protocols
+- Question 2 - Operating System
+- Question 3 - Cloud Computing
+- Question 4 - Database
+- Question 5 - Programming
+- Question 6 - 
 
 
 ## Submission
