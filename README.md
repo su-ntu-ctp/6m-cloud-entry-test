@@ -1,37 +1,14 @@
-# Insert Lesson Title
+# CLOUD INFRASTRUCTURE ENGINEERING - (6 Months) Entry Assessment
 
-## Dependencies
+## Brief
 
-Refer to the following markdown file for the respective sections of the class:
-- [Self Studies](./studies.md)
-- [Lesson](./lesson.md)
-- [Assignment](./assignment.md)
+In this assessment, you will be given references for self study before making an attempt to five coding practices. To download this folder, you can clone it or download this as a zip file. Click on the green button with `Code` to download as zip. The entire assessment should not take you more than `2` hours.
 
-## Lesson Objectives
+## Expected Audience
 
-Learners will understand:
-- Insert the knowledge to be acquired
-
-Learners will be able to:
-- Insert the skillset to be acquired
-
-
-## Lesson Plan
-
-|Duration|What|How or Why|
-|--------|-----|-------|
-|- 5mins |Start zoom session|So that students can join early and start class on time|
-|10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|30 mins|Conceptual Knowledge| Instructors brief students on the subject matter conceptually before diving into hands on. This section can be shorter but not longer. Use video clips for explanation if necessary.|
-|20 mins|Code Along| Practical hands on|
-||**1 HR MARK**|
-|5 mins|Break|Break|
-|40 mins|Code Along| Practical hands on|
-|5 mins|Buffer|In case of overrun|
-|5 mins|Break||
-|5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
-||**2 HR MARK**|
-|50 mins|Learners self attempt on assignments|
-|10 mins|Instructors assist learners to push changes to remote repository.|
-||**END CLASS 3 HR MARK**|
-
+- Individuals with an IT background to diversify/expand their skills and/or intending to switch to a software developer role.
+    - Those with IT or Engineering degree/diploma, or
+    - Those with IT or Engineering experience professionally
+- Full-time professionals seek to upskill within the tech industry. (E.g. System Admin to be Software Developer)	
+- Learners with systems and infrastructure administration background.
+- Learners who have attended basic infrastructure or cloud courses.
