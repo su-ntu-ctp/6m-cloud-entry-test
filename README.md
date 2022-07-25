@@ -11,3 +11,26 @@ In this assessment, you will be given references for self study before making an
     - Those with IT or Engineering experience professionally
 - Individuals with systems and infrastructure administration background.
 - Individuals who have attended basic infrastructure or cloud courses.
+
+## References
+
+- [Github CLI Cheat Sheets](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Linux CLI Cheat Sheets](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- [AWS Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/?nc1=f_cc)
+
+## Problems
+
+Please attempt the solve the problems described in the following files:
+
+- Question - Networking and Internet Protocols
+- Question - Operating System
+- Question - Cloud Computing
+- Question - Database
+- Question - Programming
+
+
+## Submission
+
+- Fork and clone this repository
+- Submit your anwer by modify the `answer` file under `src` folder
+- Create single pull request that containt all the answer.
