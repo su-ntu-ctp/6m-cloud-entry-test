@@ -70,13 +70,7 @@ Use [draw.io](draw.io) to draw a system architecture diagram as described below:
 - The cluster of database contains an instance for reading and another instance for writing.
 - The database must not be connected to the internet gateway.
 
-Upload an image of your diagram to this repository (by copy paste the image directly the image to the textbox, it will upload automatically your image and github will automatically change it to a image link). Example: 
-
-![image](https://user-images.githubusercontent.com/106639884/195302413-ef187755-b453-47fe-99b8-22add8778f78.png)
-
-
-If you are unable to upload your image of diagram here, you can also share the link to your image diagram.
-
+Share the link to your image of diagram.
 
 ---
 
