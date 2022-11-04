@@ -41,7 +41,7 @@ What is the Bash command to discover the IP Address of `www.skillsunion.com`?
 
 **Question 2 - Copy a Directory**
 
-Write is the command to copy a directory from `~/my_project` to `/etc/projects`?
+What is the command to copy a directory from `~/my_project` to `/etc/projects`?
 
 ```sh
 # Answer here
