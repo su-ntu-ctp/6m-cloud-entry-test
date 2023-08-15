@@ -17,11 +17,12 @@ This assessment aims to test your resourcefulness, the ability to understand IT 
 ---
 ## Expected Audience
 
-- Individuals with an IT background to diversify/expand their skills and/or intending to switch to a software developer role.
+- Individuals with an IT background to diversify/expand their skills and/or intending to switch to a cloud engineering role.
     - Those with IT or Engineering degree/diploma, or
     - Those with IT or Engineering experience professionally
 - Individuals with systems and infrastructure administration background.
 - Individuals who have attended basic infrastructure or cloud courses.
+- Individuals without an IT background but want to expand their skills and/or intending to switch to a cloud engineering role.
 
 ---
 
