@@ -7,12 +7,7 @@ This assessment aims to test your resourcefulness, the ability to understand IT 
 ---
 ## Submission
 
-- Create an account in github.com
-- Fork this repository to your account
-- Use the online editor to edit this file (README.MD)
-- Save your changes
-- Submit the URL of this repository 
-- Ensure your URL is publicly accessible
+Use the registration form in NTU SCTP
 
 ---
 ## Expected Audience
