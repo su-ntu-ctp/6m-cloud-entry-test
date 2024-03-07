@@ -4,6 +4,10 @@
 
 This assessment aims to test your resourcefulness, the ability to understand IT concepts, and produce a viable answer to the problems listed.
 
+Please answer all questions to the best of your ability. The test is designed to assess your foundational knowledge for IT Infrastructure. This test aims to evaluate your core understanding of IT Infrastructure through open-ended questions and there is no single correct or incorrect answer for them.
+
+For addressing technical queries, you can answer it in a wide range of resources, including up-to-date online searches, to ensure the information is comprehensive and current. The goal is to see how you approach and solve these questions; there's no strictly right or wrong answer. Your ability to navigate and utilize available information effectively is what's being assessed.
+
 ---
 ## Submission
 
